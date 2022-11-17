@@ -1,1 +1,39 @@
+/* div {
+    background-color: pink;
 
+    width: 300px;
+    border:2px solid white;
+    padding: 10px;
+    margin: 10px;
+} */
+body{
+    background-color: pink;
+}
+.mobile-navigation {
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: white;
+    margin: 100px 515px;
+}
+.home-img {
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+}
+.home{
+    border-radius: 10px 10px 0px 0px;
+}
+img{
+    height: 400px;
+    width: 330px;
+}
+.icon{
+    height: 20px;
+    width: 20px;
+    justify-content: center;
+}
+.img-icon{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
